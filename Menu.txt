@@ -1,0 +1,61 @@
+DANH SACH DO AN THUC UONG HIGHLANDS COFFE
+-----------------------------------------------------
+TRA/TEA
+-----------------------------------------------------
+TR001,	TRA SEN VANG (SEN),	TRA,	45.000
+TR002,	TRA THACH DAO,	      TRA,	45.000
+TR003,	TRA THACH VAI,		TRA,	45.000
+TR004,	TRA SEN VANG (CU NANG),	TRA,	45.000
+TR005,	TRA OI HONG,		TRA,	55.000
+TR006,	TRA XOAI NHIET DOI,	TRA,	55.000
+TR007,	TRA MO SO RI,		TRA, 	55.000
+----------------------------------------------------
+CA PHE TRUYEN THONG/TRADITIONAL COFFEE
+----------------------------------------------------
+CF008,	PHIN SUA DA,	CAFFE,      29.000
+CF009,	BAC XIU,		CAFFE,	29.000
+CF010,	PHI PHE DA,		CAFFE,	29.000
+CF011,	PHI SUA NONG,	CAFFE,	29.000
+CF012,	PHI DEN NONG,	CAFFE,	29.000
+----------------------------------------------------
+DA XAY/FREEZE
+----------------------------------------------------
+DX013,	FREEZE TRA XANH ,		DA XAY, 55.000 
+DX014,	CHOCOLATE FREEZE ,	DA XAY ,55.000
+DX015,	CARAMEL PHIN FREEZE,	DA XAY ,55.000 
+DX016,	COOKIES & CREAM,		DA XAY, 55.000
+DX017,	CLASSIC PHIN FREEZE,	DA XAY ,55.000
+----------------------------------------------------
+ BANH NGOT / PASTRIES
+----------------------------------------------------
+BN018,	BANH TIRAMISU,	BANH NGOT, 35.000
+BN019,	BANH CHUOI,		BANH NGOT, 29.000
+BN020,	BANH PHO MAI,	BANH NGOT, 29.000
+BN021,	BANH TRA XANH,	BANH NGOT, 35.000
+BN022,	BANH CARAMEL,	BANH NGOT, 35.000
+BN023,	BANH CA PHE,	BANH NGOT, 24.000
+BN024,	BANH MOUSSE CACAO,BANH NGOT, 35.000
+BN025,	BANH SOCOLA,	BANH NGOT, 35.000
+BN026,	COOKIES VANILA,	BANH NGOT, 15.000
+----------------------------------------------------
+CA PHE ESPRESSO/ ESPRESSO COFFEE
+----------------------------------------------------
+CP027,	AMERICANO,		COFFEE,	45.000
+CP028,	LATTE,		COFFEE,	65.000
+CP029,	CAPPUCCINO,		COFFEE,	65.000
+CP030,	MACCHIATO,		COFFEE,	69.000
+CP031,	ESPRESSO,		COFFEE,	45.000
+CP032,	MOCHA,		COFFEE,	69.000
+CP033,	HANH NHAN		COFFEE,	45.000
+CP034,	KEM SUA,		COFFEE,	45.000
+CP035,	CHOCO,		COFFEE,	45.000
+----------------------------------------------------
+THUC UONG KHAC/ OTHER DRINK
+----------------------------------------------------
+TK036,	CHANH DAY DA VIEN,   KHAC,   39.000
+TK037,	TAC/QUAT DA VIEN,    KHAC,   39.000
+TK038,	CHOCOLATE,		   KHAC,   55.000
+TK039,	CHANH DA XAY,	   KHAC,   39.000
+TK040,	CHANH DA VIEN,	   KHAC,   39.000
+TK041,	CHANH NONG,		   KHAC,   39.000
+
